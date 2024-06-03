@@ -9,7 +9,6 @@ The DailyNews web is designed to provide users with a seamless experience for re
 ## Features
 
 - Browse news articles from different categories
-- Search for specific news articles
 - Responsive design for mobile and desktop
 - Easy-to-use interface
 ## Screenshots
@@ -21,3 +20,8 @@ The DailyNews web is designed to provide users with a seamless experience for re
 
 - Sports Category
 ![Sports Category](https://github.com/jeevank280/DailyNews-Web/assets/62411773/e923834e-5dd8-478a-b8a4-521505ef35d7)
+
+## Technologies Used
+- React.js - A JavaScript library for building user interfaces
+- React Router - Declarative routing for React
+- News API - API for fetching news articles
