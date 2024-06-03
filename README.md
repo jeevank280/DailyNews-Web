@@ -14,7 +14,6 @@ The DailyNews web is designed to provide users with a seamless experience for re
 - Easy-to-use interface
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Screenshots](https://github.com/jeevank280/DailyNews-Web/assets/62411773/fd6e9485-b9bb-4203-89a0-206b29a72d6d)
-
-![Category Page](screenshots/category-page.png)
+![Home](https://github.com/jeevank280/DailyNews-Web/assets/62411773/749f5e47-a422-4f79-aeef-61095b98c0a0)
+![Science Category](https://github.com/jeevank280/DailyNews-Web/assets/62411773/0f4f87f4-eb07-4c9a-bcf7-743fde518726)
+![Sports Category](https://github.com/jeevank280/DailyNews-Web/assets/62411773/e923834e-5dd8-478a-b8a4-521505ef35d7)
