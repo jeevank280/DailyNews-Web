@@ -12,3 +12,8 @@ The DailyNews web is designed to provide users with a seamless experience for re
 - Search for specific news articles
 - Responsive design for mobile and desktop
 - Easy-to-use interface
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
+![Category Page](screenshots/category-page.png)
+![Search Results](screenshots/search-results.png)
